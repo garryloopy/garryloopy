@@ -13,7 +13,7 @@ Im a current student at Southern Alberta Institute of Technology, Software Devel
 - C#
 - Firebase
 
-In addition to coding, I also do game development with C# with Unity on my spare time expanding my interest into C++ with Unreal Engine.
+In addition to coding, I also do game development with C# with Unity on my spare time while expanding my interest into C++ with Unreal Engine.
 
 ## Here are some things about me:
 - 🔭 I’m currently working on a e-commerce web app.
